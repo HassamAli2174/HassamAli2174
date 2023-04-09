@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassam Arshad</h1>
 <h3 align="center">A passionate Software Engineerer</h3>
 
-<img align="right" alt="Coding" width"400px" src="![image](https://user-images.githubusercontent.com/104668970/230790336-1c617377-2a21-4f66-bb85-168b19fd22a0.png)">
+<img align="right" alt="Coding" width"400" src="![image](https://user-images.githubusercontent.com/104668970/230790336-1c617377-2a21-4f66-bb85-168b19fd22a0.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassamali2174&label=Profile%20views&color=0e75b6&style=flat" alt="hassamali2174" /> </p>
 
