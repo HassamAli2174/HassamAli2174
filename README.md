@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and Nextjs**
 
-- 📫 How to reach me **animeboi2174@gmail.com**
+- 📫 How to reach me **hassamarshad021@gmail.com**
 
 - ⚡ Fun fact **I am a Beatboxer**
 
