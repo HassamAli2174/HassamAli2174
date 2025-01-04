@@ -18,7 +18,19 @@
 
 <h3 align="center">🚀 Technologies I Work With:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flutter,js,react,redux,html,css,tailwind,git,docker,postgresql,bootstrap,photoshop" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=python" alt="🐍 Python" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=🐍';">
+  <img src="https://skillicons.dev/icons?i=flutter" alt="🐦 Flutter" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=🐦';">
+  <img src="https://skillicons.dev/icons?i=js" alt="🖥️ JavaScript" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=🖥️';">
+  <img src="https://skillicons.dev/icons?i=react" alt="⚛️ React" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=⚛️';">
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=Redux';">
+  <img src="https://skillicons.dev/icons?i=html" alt="🌐 HTML" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=🌐';">
+  <img src="https://skillicons.dev/icons?i=css" alt="🎨 CSS" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=🎨';">
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=Tailwind';">
+  <img src="https://skillicons.dev/icons?i=git" alt="🧑‍💻 Git" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=🧑‍💻';">
+  <img src="https://skillicons.dev/icons?i=docker" alt="📦 Docker" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=📦';">
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="🗃️ PostgreSQL" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=🗃️';">
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=Bootstrap';">
+  <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=Photoshop';">
 </p>
 
 ---
