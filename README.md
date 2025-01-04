@@ -17,7 +17,6 @@
 ---
 
 <h3 align="center">🚀 Technologies I Work With:</h3>
-<h3 align="center">📊 Languages Mostly Used:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="🐍 Python" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=🐍';">
   <img src="https://skillicons.dev/icons?i=flutter" alt="🐦 Flutter" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=🐦';">
@@ -32,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=postgresql" alt="🗃️ PostgreSQL" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=🗃️';">
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=Bootstrap';">
   <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=Photoshop';">
-  <img src="https://skillicons.dev/icons?i=jira" alt="🎯 Jira" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=🎯';">
+<!--   <img src="https://skillicons.dev/icons?i=jira" alt="🎯 Jira" onerror="this.onerror=null; this.src='https://via.placeholder.com/40/FFD700/000000?text=🎯';"> -->
 </p>
 
 ---
