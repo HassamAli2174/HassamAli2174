@@ -10,7 +10,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Flutter and Python**
+- 🌱 I’m currently learning **Java and Flutter**
 - 📫 How to reach me: **hassamarshad021@gmail.com**
 - ⚡ Fun fact: **I am a Beatboxer**
 
